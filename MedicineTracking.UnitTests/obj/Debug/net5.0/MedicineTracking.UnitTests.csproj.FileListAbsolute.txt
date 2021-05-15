@@ -1,10 +1,4 @@
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\testhost.dll
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.deps.json
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.runtimeconfig.json
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.runtimeconfig.dev.json
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\appsettings.json
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.exe
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\testhost.exe
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
@@ -97,12 +91,10 @@ C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bi
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Data.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Engine.dll
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Data.pdb
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Engine.pdb
-C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\bin\Debug\net5.0\MedicineTracking.Api.pdb
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\obj\Debug\net5.0\MedicineTracking.UnitTests.csprojAssemblyReference.cache
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\obj\Debug\net5.0\MedicineTracking.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ray61\source\repos\MedicineTrackingSystem\MedicineTracking.UnitTests\obj\Debug\net5.0\MedicineTracking.UnitTests.AssemblyInfoInputs.cache
