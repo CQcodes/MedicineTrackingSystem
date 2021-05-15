@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MedicineTracking.Engine/1.0.0": {
+        "dependencies": {
+          "MedicineTracking.Data": "1.0.0"
+        },
+        "runtime": {
+          "MedicineTracking.Engine.dll": {}
+        }
+      },
+      "MedicineTracking.Data/1.0.0": {
+        "runtime": {
+          "MedicineTracking.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicineTracking.Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MedicineTracking.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
