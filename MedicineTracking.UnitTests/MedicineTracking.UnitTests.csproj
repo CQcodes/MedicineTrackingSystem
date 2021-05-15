@@ -21,9 +21,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MedicineTracking.Api\MedicineTracking.Api.csproj" />
     <ProjectReference Include="..\MedicineTracking.Data\MedicineTracking.Data.csproj" />
     <ProjectReference Include="..\MedicineTracking.Engine\MedicineTracking.Engine.csproj" />
-    <ProjectReference Include="..\MedicineTrackingApi\MedicineTracking.Api.csproj" />
   </ItemGroup>
 
 </Project>
